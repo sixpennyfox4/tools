@@ -1,1 +1,3 @@
 prompt-sync(npm install prompt-sync)
+
+!NO MODULES REQUIRED FOR THE EXE FILE!
