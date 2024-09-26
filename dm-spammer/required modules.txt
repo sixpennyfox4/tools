@@ -1,2 +1,2 @@
-discord.js(npm install discord.js)
 prompt-sync(npm install prompt-sync)
+discord.js(npm install discord.js)
